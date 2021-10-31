@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/3dcardAndSlider/static/css/main.4b76f01b.chunk.css",
-    "main.js": "/3dcardAndSlider/static/js/main.f3e05115.chunk.js",
-    "main.js.map": "/3dcardAndSlider/static/js/main.f3e05115.chunk.js.map",
+    "main.js": "/3dcardAndSlider/static/js/main.306d4b80.chunk.js",
+    "main.js.map": "/3dcardAndSlider/static/js/main.306d4b80.chunk.js.map",
     "runtime-main.js": "/3dcardAndSlider/static/js/runtime-main.39c99cf3.js",
     "runtime-main.js.map": "/3dcardAndSlider/static/js/runtime-main.39c99cf3.js.map",
-    "static/js/2.4cc9689b.chunk.js": "/3dcardAndSlider/static/js/2.4cc9689b.chunk.js",
-    "static/js/2.4cc9689b.chunk.js.map": "/3dcardAndSlider/static/js/2.4cc9689b.chunk.js.map",
+    "static/js/2.4c169d1d.chunk.js": "/3dcardAndSlider/static/js/2.4c169d1d.chunk.js",
+    "static/js/2.4c169d1d.chunk.js.map": "/3dcardAndSlider/static/js/2.4c169d1d.chunk.js.map",
     "index.html": "/3dcardAndSlider/index.html",
     "static/css/main.4b76f01b.chunk.css.map": "/3dcardAndSlider/static/css/main.4b76f01b.chunk.css.map",
-    "static/js/2.4cc9689b.chunk.js.LICENSE.txt": "/3dcardAndSlider/static/js/2.4cc9689b.chunk.js.LICENSE.txt",
+    "static/js/2.4c169d1d.chunk.js.LICENSE.txt": "/3dcardAndSlider/static/js/2.4c169d1d.chunk.js.LICENSE.txt",
     "static/media/adidas.cc57b923.png": "/3dcardAndSlider/static/media/adidas.cc57b923.png",
     "static/media/SimpleCard.css": "/3dcardAndSlider/static/media/background.d8f07162.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.39c99cf3.js",
-    "static/js/2.4cc9689b.chunk.js",
+    "static/js/2.4c169d1d.chunk.js",
     "static/css/main.4b76f01b.chunk.css",
-    "static/js/main.f3e05115.chunk.js"
+    "static/js/main.306d4b80.chunk.js"
   ]
 }
